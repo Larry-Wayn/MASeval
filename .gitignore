@@ -1,0 +1,23 @@
+# 环境变量与密钥
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# 操作系统与运行日志
+.DS_Store
+*.log
+
+# 实验输出与断点
+results/
+checkpoints/
